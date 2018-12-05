@@ -1,0 +1,14 @@
+[
+  {
+    "firstName": "Wojciech",
+    "lastName" :"laksdj",
+    "email" : "email@gmail.com",
+    "avatarUrl": null
+  },
+  {
+    "firstName": "Wojciech1",
+    "lastName" :"laksd2j",
+    "email" : "email@gma2il.com",
+    "avatarUrl": "avatar"
+  }
+]
